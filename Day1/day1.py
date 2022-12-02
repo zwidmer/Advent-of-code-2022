@@ -1,3 +1,5 @@
+#https://adventofcode.com/2022/day/1
+
 import numpy as numpy
 
 file1 = open('input.txt', 'r')
