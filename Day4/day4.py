@@ -1,4 +1,4 @@
-import numpy as np
+#https://adventofcode.com/2022/day/4
 file = open('input4.txt', 'r')
 Lines = file.readlines()
 
